@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "name": "minelev-elevmappa",
+  "alias": [
+    "elevmappa.minelev.win"
+  ],
+  "builds": [
+    { "src": "/index.js", "use": "@now/node" }
+  ],
+  "routes": [
+    { "src": "/(.*)", "dest": "/index.js" }
+  ]
+}
