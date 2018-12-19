@@ -34,15 +34,100 @@
     ]
   },
   {
-    "firstName": "Finn",
+    "firstName": "Sun",
     "middleName": null,
-    "lastName": "Beck",
-    "fullName": "Finn Beck",
+    "lastName": "Tzu",
+    "fullName": "Sun Tzu",
     "mainGroupName": "BAMVS:3ST",
-    "personalIdNumber": "01015100172",
+    "personalIdNumber": "01015100173",
     "mobilePhone": "+4748300000",
-    "mail": "finn.beck@hotmail.com",
-    "userName": "0151beck",
+    "mail": "sun.tzu@hotmail.com",
+    "userName": "0101tzus",
+    "organizationNumber": "NO974568098",
+    "files": [
+      { "id": 123454, "title": "Lullabies from the edge" },
+      { "id": 123454, "title": "Salige reker" },
+      { "id": 123454, "title": "It came from Søre Ål" }   
+    ]
+  },
+  {
+    "firstName": "Simone de",
+    "middleName": null,
+    "lastName": "Beauvoir",
+    "fullName": "Simone de Beauvoir",
+    "mainGroupName": "BAMVS:3ST",
+    "personalIdNumber": "01015100174",
+    "mobilePhone": "+4748300000",
+    "mail": "simone.de.Beauvoir@hotmail.com",
+    "userName": "0151beas",
+    "organizationNumber": "NO974568098",
+    "files": [
+      { "id": 123454, "title": "Lullabies from the edge" },
+      { "id": 123454, "title": "Salige reker" },
+      { "id": 123454, "title": "It came from Søre Ål" }   
+    ]
+  },
+  {
+    "firstName": "Ayn",
+    "middleName": null,
+    "lastName": "Rand",
+    "fullName": "Ayn Rand",
+    "mainGroupName": "BAMVS:3ST",
+    "personalIdNumber": "01015100175",
+    "mobilePhone": "+4748300000",
+    "mail": "ayn.rand@hotmail.com",
+    "userName": "0151rana",
+    "organizationNumber": "NO974568098",
+    "files": [
+      { "id": 123454, "title": "Lullabies from the edge" },
+      { "id": 123454, "title": "Salige reker" },
+      { "id": 123454, "title": "It came from Søre Ål" }   
+    ]
+  },
+  {
+    "firstName": "George",
+    "middleName": null,
+    "lastName": "Berkeley",
+    "fullName": "George Berkeley",
+    "mainGroupName": "BAMVS:3ST",
+    "personalIdNumber": "01015100176",
+    "mobilePhone": "+4748300000",
+    "mail": "george.berkeley@hotmail.com",
+    "userName": "0151berb",
+    "organizationNumber": "NO974568098",
+    "files": [
+      { "id": 123454, "title": "Lullabies from the edge" },
+      { "id": 123454, "title": "Salige reker" },
+      { "id": 123454, "title": "It came from Søre Ål" }   
+    ]
+  },
+  {
+    "firstName": "Jean-Jacques",
+    "middleName": null,
+    "lastName": "Rousseau",
+    "fullName": "Jean-Jacques Rousseau",
+    "mainGroupName": "BAMVS:3ST",
+    "personalIdNumber": "01015100177",
+    "mobilePhone": "+4748300000",
+    "mail": "jean-jacques.Rousseau@hotmail.com",
+    "userName": "0151rouj",
+    "organizationNumber": "NO974568098",
+    "files": [
+      { "id": 123454, "title": "Lullabies from the edge" },
+      { "id": 123454, "title": "Salige reker" },
+      { "id": 123454, "title": "It came from Søre Ål" }   
+    ]
+  },
+  {
+    "firstName": "Baron de",
+    "middleName": null,
+    "lastName": "Montesquieu",
+    "fullName": "Baron de Montesquieu",
+    "mainGroupName": "BAMVS:3ST",
+    "personalIdNumber": "01015100178",
+    "mobilePhone": "+4748300000",
+    "mail": "baron.de.montesquieu@hotmail.com",
+    "userName": "0151monb",
     "organizationNumber": "NO974568098",
     "files": [
       { "id": 123454, "title": "Lullabies from the edge" },
