@@ -1,0 +1,50 @@
+[
+  {
+    "firstName": "Thomas",
+    "middleName": null,
+    "lastName": "Topstad",
+    "fullName": "Thomas Topstad",
+    "personalIdNumber": "01010750160",
+    "mobilePhone": "+4748300000",
+    "mail": null,
+    "userName": "0107top",
+    "organizationNumber": "NO974568098",
+    "files": [
+      { "id": 123454, "title": "Lullabies from the edge" },
+      { "id": 123454, "title": "Salige reker" },
+      { "id": 123454, "title": "It came from Søre Ål" }   
+    ]
+  },
+  {
+    "firstName": "Paul",
+    "middleName": null,
+    "lastName": "Smith",
+    "fullName": "Paul Smith",
+    "personalIdNumber": "01014700230",
+    "mobilePhone": "+4748300000",
+    "mail": "paul.smith@hotmail.com",
+    "userName": "0147smit",
+    "organizationNumber": "NO974568098",
+    "files": [
+      { "id": 123454, "title": "Lullabies from the edge" },
+      { "id": 123454, "title": "Salige reker" },
+      { "id": 123454, "title": "It came from Søre Ål" }   
+    ]
+  },
+  {
+    "firstName": "Finn",
+    "middleName": null,
+    "lastName": "Beck",
+    "fullName": "Finn Beck",
+    "personalIdNumber": "01015100172",
+    "mobilePhone": "+4748300000",
+    "mail": "finn.beck@hotmail.com",
+    "userName": "0151beck",
+    "organizationNumber": "NO974568098",
+    "files": [
+      { "id": 123454, "title": "Lullabies from the edge" },
+      { "id": 123454, "title": "Salige reker" },
+      { "id": 123454, "title": "It came from Søre Ål" }   
+    ]
+  }
+]

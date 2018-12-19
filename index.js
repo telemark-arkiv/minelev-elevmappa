@@ -23,6 +23,8 @@ if (JWT_SECRET) {
 // ROUTES
 router.get('/', handler.frontpage)
 router.get('/api/files/:id', handler.showFile)
+router.get('/api/students', handler.getStudents)
+router.get('/api/students/:id', handler.getStudent)
 
 module.exports = (request, response) => {
   router(request, response, finalhandler(request, response))
