@@ -16,9 +16,9 @@
         "title": "Lullabies from the edge",
         "files": [
           {
-            from: 'PPT',
-            to: 'Bamble Videregående skole',
-            file: "1234"
+            "from": 'PPT',
+            "to": 'Bamble Videregående skole',
+            "file": "1234"
           }
         ]
       },
