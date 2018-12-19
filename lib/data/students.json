@@ -10,10 +10,26 @@
     "mail": "thomas.topstad@hotmail.com",
     "userName": "0107top",
     "organizationNumber": "NO974568098",
-    "files": [
-      { "id": "16/03875-1", "title": "Lullabies from the edge" },
-      { "id": "16/03875-2", "title": "Salige reker" },
-      { "id": "16/03875-3", "title": "It came from Søre Ål" }   
+    "documents": [
+      {
+        "id": "16/03875-1",
+        "title": "Lullabies from the edge",
+        "files": [
+          {
+            from: 'PPT',
+            to: 'Bamble Videregående skole',
+            file: "1234"
+          }
+        ]
+      },
+      {
+        "id": "16/03875-2",
+        "title": "Salige reker"
+      },
+      {
+        "id": "16/03875-3",
+        "title": "It came from Søre Ål"
+      }  
     ]
   },
   {
@@ -27,7 +43,7 @@
     "mail": "paul.smith@hotmail.com",
     "userName": "0147smit",
     "organizationNumber": "NO974568098",
-    "files": [
+    "documents": [
       { "id": "16/03876-1", "title": "Lullabies from the edge" },
       { "id": "16/03876-2", "title": "Salige reker" },
       { "id": "16/03876-3", "title": "It came from Søre Ål" }   
@@ -44,7 +60,7 @@
     "mail": "sun.tzu@hotmail.com",
     "userName": "0101tzus",
     "organizationNumber": "NO974568098",
-    "files": [
+    "documents": [
       { "id": "16/03877-1", "title": "Lullabies from the edge" },
       { "id": "16/03877-2", "title": "Salige reker" },
       { "id": "16/03877-3", "title": "It came from Søre Ål" }   
@@ -61,7 +77,7 @@
     "mail": "simone.de.Beauvoir@hotmail.com",
     "userName": "0151beas",
     "organizationNumber": "NO974568098",
-    "files": [
+    "documents": [
       { "id": "16/03878-1", "title": "Lullabies from the edge" },
       { "id": "16/03878-2", "title": "Salige reker" },
       { "id": "16/03878-3", "title": "It came from Søre Ål" }   
@@ -78,7 +94,7 @@
     "mail": "ayn.rand@hotmail.com",
     "userName": "0151rana",
     "organizationNumber": "NO974568098",
-    "files": [
+    "documents": [
       { "id": "16/03879-1", "title": "Lullabies from the edge" },
       { "id": "16/03879-2", "title": "Salige reker" },
       { "id": "16/03879-3", "title": "It came from Søre Ål" }   
@@ -95,7 +111,7 @@
     "mail": "george.berkeley@hotmail.com",
     "userName": "0151berb",
     "organizationNumber": "NO974568098",
-    "files": [
+    "documents": [
       { "id": "16/03879-1", "title": "Lullabies from the edge" },
       { "id": "16/03879-2", "title": "Salige reker" },
       { "id": "16/03879-3", "title": "It came from Søre Ål" }   
@@ -112,7 +128,7 @@
     "mail": "jean-jacques.Rousseau@hotmail.com",
     "userName": "0151rouj",
     "organizationNumber": "NO974568098",
-    "files": [
+    "documents": [
       { "id": "16/03881-1", "title": "Lullabies from the edge" },
       { "id": "16/03881-2", "title": "Salige reker" },
       { "id": "16/03881-3", "title": "It came from Søre Ål" }   
@@ -129,7 +145,7 @@
     "mail": "baron.de.montesquieu@hotmail.com",
     "userName": "0151monb",
     "organizationNumber": "NO974568098",
-    "files": [
+    "documents": [
       { "id": "16/03882-1", "title": "Lullabies from the edge" },
       { "id": "16/03882-2", "title": "Salige reker" },
       { "id": "16/03882-3", "title": "It came from Søre Ål" }   
