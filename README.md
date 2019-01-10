@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.com/telemark/minelev-elevmappa.svg?branch=master)](https://travis-ci.com/telemark/minelev-elevmappa)
+[![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
+
 # minelev-elevmappa
 
 API for tilgang til elevmappene i Public360
