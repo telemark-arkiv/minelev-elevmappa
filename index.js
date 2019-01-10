@@ -3,6 +3,7 @@ const Router = require('router')
 const finalhandler = require('finalhandler')
 const cors = require('cors')
 const jwt = require('express-jwt')
+
 // Utilities
 const handler = require('./lib/handler')
 const JWT_SECRET = process.env.JWT_SECRET
